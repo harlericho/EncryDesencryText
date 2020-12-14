@@ -68,6 +68,7 @@ namespace EncryDesencryText
             // 
             // txtEncriptacion
             // 
+            this.txtEncriptacion.Enabled = false;
             this.txtEncriptacion.Location = new System.Drawing.Point(184, 98);
             this.txtEncriptacion.Name = "txtEncriptacion";
             this.txtEncriptacion.Size = new System.Drawing.Size(272, 20);
